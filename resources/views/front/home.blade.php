@@ -1,7 +1,5 @@
 @extends('front.layouts.master')
 
-<div>cavid</div>
-
 @section('content')
 
     <!--MAIN SECTION START-->
