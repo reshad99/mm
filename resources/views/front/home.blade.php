@@ -1,6 +1,7 @@
 @extends('front.layouts.master')
 
 @section('content')
+<div>res</div>
     <!--MAIN SECTION START-->
 <section class="home ref fix">
   <div class="container-fluid">
